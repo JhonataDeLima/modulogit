@@ -1,2 +1,1 @@
-meu primeiro sistema utilizando git
-fazer mais um commit
+23/05/2022 iniciando projeto utilizando git hub de forma remota, finalidade: estudo;
